@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IaMPaRtH20
+- 👋 Hi, I’m @Shashank H
 - 👀 I’m interested in ...Graphic Designing
 - 🌱 I’m currently learning ...Final Year as an Electrical Engineer
 - 💞️ I’m looking to collaborate on ...Design Engineering,Graphics
