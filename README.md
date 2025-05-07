@@ -14,6 +14,5 @@
   </a>
   
   
-  <p align="center">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
-  
+ #### <p align="center">There are 10 types of people in the world. Those who get Binary and those who don't.. </div> 
 
