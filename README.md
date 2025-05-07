@@ -1,8 +1,6 @@
-  ## Hey, Shashank here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-- 👀 I’m interested in ...Graphic Designing
-- 🌱 I’m currently learning ...Final Year as an Electrical Engineer
-- 💞️ I’m looking to collaborate on ...Design Engineering,Graphics
-- 📫 How to reach me ...
+<h2 align="center">Hello there! My name is Shashank H 👋🤓</h2>
+  <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+
 
 <!---
 IaMPaRtH20/IaMPaRtH20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
